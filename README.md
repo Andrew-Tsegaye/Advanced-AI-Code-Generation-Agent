@@ -17,12 +17,16 @@ git clone https://github.com/Andrew-Tsegaye/Code-Gen-Agent.git
 ```
 
 2. **Install Dependencies**:
-   - To install the specified versions of the dependencies, ensure you have Python version between `3.8` and `3.11` and run the following command:
+   - To install the specified versions of the dependencies, ensure you have a Python version between `3.8` and `3.11` and run the following command:
 ```bash
 pip install -r requirements.txt
 ```
 
 ## Next Steps:
+- Activate the AI script from your terminal by running:
+```bash
+  ./ai/Scripts/activate
+```
 - Download the `mistral` LLM model from [Ollama Models](https://ollama.com/library). The `codellama` model will be automatically downloaded when you run the code.
 - To run and Chat with [Mistral](https://ollama.com/library/mistral), execute the following command:
 ```bash
