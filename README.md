@@ -27,8 +27,8 @@ pip install -r requirements.txt
 ```bash
   ./ai/Scripts/activate
 ```
-- Download the `mistral` LLM model from [Ollama Models](https://ollama.com/library). The `codellama` model will be automatically downloaded when you run the code.
-- To run and Chat with [Mistral](https://ollama.com/library/mistral), execute the following command:
+- Download the `mistral` LLM model from [Ollama Models](https://ollama.com/library){:target="_blank"}. The `codellama` model will be automatically downloaded when you run the code.
+- To run and Chat with [Mistral](https://ollama.com/library/mistral){:target="_blank"}, execute the following command:
 ```bash
 ollama run mistral
 ```
@@ -52,5 +52,5 @@ Contributions are welcome! If you have any ideas for new features, improvements,
 ## Acknowledgements
 
 Code Generation Agent wouldn't be possible without the contributions of the open-source community. I would like to thank all the developers who have helped make this project a reality.
-- [LLAMA Index](https://www.llamaindex.ai/)
-- [Ollama](https://github.com/ollama/ollama)
+- [LLAMA Index](https://www.llamaindex.ai/){:target="_blank"}
+- [Ollama](https://github.com/ollama/ollama){:target="_blank"}
