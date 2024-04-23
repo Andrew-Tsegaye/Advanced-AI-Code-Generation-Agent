@@ -27,8 +27,8 @@ pip install -r requirements.txt
 ```bash
   ./ai/Scripts/activate
 ```
-- Download the `mistral` LLM model from [Ollama Models](https://ollama.com/library){:target="_blank"}. The `codellama` model will be automatically downloaded when you run the code.
-- To run and Chat with [Mistral](https://ollama.com/library/mistral){:target="_blank"}, execute the following command:
+- Download the `mistral` LLM model from [Ollama Models](https://ollama.com/library). The `codellama` model will be automatically downloaded when you run the code.
+- To run and Chat with [Mistral](https://ollama.com/library/mistral), execute the following command:
 ```bash
 ollama run mistral
 ```
@@ -43,7 +43,7 @@ Once the AI is running on your local machine, follow the prompts to generate cod
 
 ## Usage
 
-Code Generation Agent is designed to be intuitive and easy to use. Simply launch the AI agent, choose your desired programming language as your custom data, select a template [I have provided my own template], and provide the necessary input when prompted. The agent will then generate the corresponding code snippet for you to use in your projects.
+Code Generation Agent is designed to be intuitive and easy to use. Simply launch the AI agent, choose your desired programming language as your custom data, select a template [I have provided my template], and provide the necessary input when prompted. The agent will then generate the corresponding code snippet for you to use in your projects.
 
 ## Contributing
 
@@ -52,5 +52,5 @@ Contributions are welcome! If you have any ideas for new features, improvements,
 ## Acknowledgements
 
 Code Generation Agent wouldn't be possible without the contributions of the open-source community. I would like to thank all the developers who have helped make this project a reality.
-- [LLAMA Index](https://www.llamaindex.ai/){:target="_blank"}
-- [Ollama](https://github.com/ollama/ollama){:target="_blank"}
+- [LLAMA Index](https://www.llamaindex.ai/)
+- [Ollama](https://github.com/ollama/ollama)
